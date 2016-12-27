@@ -31,7 +31,7 @@
       <attribute name="Main-Class"
             value="com.core.helloworld.HelloWorld"/>
     </manifest>
-</jar>
+
   </target>
 
   <target name="clean"
